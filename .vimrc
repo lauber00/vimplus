@@ -193,7 +193,7 @@ nnoremap <c-j> <c-w>j
 nnoremap <c-k> <c-w>k
 nnoremap <c-h> <c-w>h
 nnoremap <c-l> <c-w>l
-noremap H ^                                                                                                                                                       
+noremap H ^
 noremap L $
 
 " 复制当前选中到系统剪切板
